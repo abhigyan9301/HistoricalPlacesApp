@@ -1,0 +1,2 @@
+export const TOGGLE_VISITED = 'TOGGLE_VISITED';
+export const SUGGEST_RANDOM = 'SUGGEST_RANDOM';
